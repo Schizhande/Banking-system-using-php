@@ -1,0 +1,12 @@
+ FEATURES
+
+
+Registration for online banking by Admin. 
+Transferring amount to the another bank account added by customer. 
+Customer gets to know his last login datehe logs in.
+Customer can transactions made with their account.
+Customer can check their account statement within a date range.
+Admin can add/edit/delete customer as well as staff. 
+All three of them(customer, staff & admin) can change their password. 
+Staff and Admin Login pages are hidden from customer for security purpose.
+            
